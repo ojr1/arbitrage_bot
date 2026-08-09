@@ -1,4 +1,4 @@
-# Plan: 1_my_betting_bot
+# Plan: arbitrage_bot
 
 ## Overview
 
@@ -216,7 +216,7 @@ unibet, virginbet, williamhill
 ## File Structure
 
 ```
-1_my_betting_bot/
+arbitrage_bot/
 ├── core.py                   ← Shared data infrastructure (Layer 1)
 ├── scripts/
 │   ├── match_odds_bot/

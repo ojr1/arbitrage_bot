@@ -1,5 +1,5 @@
 # config.py
-# Project-wide constants for 1_my_betting_bot
+# Project-wide constants for arbitrage_bot
 # All hardcoded values live here; do not define them inside individual scripts
 
 # --- SIGNAL ENGINE ---
@@ -20,7 +20,7 @@ SEAT_POLYMARKET = "polymarket"
 # OddsPapi normalises all sources to decimal odds — leave empty
 IP_FORMAT_SEATS = []
 
-# --- S_IDX CONFIGURATION (4 core UK soft books) ---
+# --- S_IDX CONFIGURATION (4 core UK soft books) ---arbitrage_bot
 S_IDX_BOOKS = [
     "williamhill",
     "ladbrokes",

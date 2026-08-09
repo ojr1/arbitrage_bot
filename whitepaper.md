@@ -1,6 +1,6 @@
-# Quad-Tier Signal Confluence Framework (v4.0)
+# Quad-Tier Signal Confluence Framework
 
-**Project:** `1_my_betting_bot`
+**Project:** `arbitrage_bot`
 **Focus:** Global Consensus Modelling & Value Detection
 **Status:** Active Development
 
