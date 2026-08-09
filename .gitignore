@@ -1,0 +1,42 @@
+# .gitignore
+
+# Security
+.env
+*.pem
+*.key
+*.crt
+*.p12
+
+# Environments
+venv/
+env/
+.venv/
+
+# Python internal junk
+__pycache__/
+*.pyc
+
+# Data & Large Files
+data/raw/
+data/processed/
+outputs/
+*.csv
+*.xlsx
+*.xlsm
+*.xls
+*.pbix
+certs/
+*.zip
+
+# Logs
+logs/
+
+# Editors & Notebooks
+.vscode/
+.idea/
+.ipynb_checkpoints/
+
+# Operating System junk
+.DS_Store
+Thumbs.db
+desktop.ini

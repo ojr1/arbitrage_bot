@@ -1,0 +1,20 @@
+# --- CORE INFRASTRUCTURE ---
+
+# Required to load variables from the .env file
+python-dotenv
+
+# --- PROJECT SPECIFIC LIBRARIES ---
+
+# Required to make HTTP requests to external APIs
+requests
+
+# Required to generate Betfair SSL certificates
+cryptography
+
+# Required for Betfair Exchange API client
+betfairlightweight
+
+# Required to write Excel output files
+openpyxl
+
+# (Add libraries below as needed for each phase)
