@@ -40,3 +40,9 @@ logs/
 .DS_Store
 Thumbs.db
 desktop.ini
+
+# Output folder (singular - the existing 'outputs/' rule doesn't match)
+output/
+
+# Derived caches - rebuilt from the API on demand
+data/*.json
